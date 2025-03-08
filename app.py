@@ -2,6 +2,7 @@
 import streamlit as st
 import requests
 import pandas as pd
+import numpy as np
 
 # URL to API
 API_URL = "https://taxifare-970234754562.europe-west2.run.app/predict"
